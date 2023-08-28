@@ -21,8 +21,8 @@ To set up this project, follow these steps:
 1. **Clone the Repository:** Start by cloning this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/protergo-ecommerce-scraper.git
-   cd protergo-ecommerce-scraper
+   git clone https://github.com/raflibangsawan/protergo-assessment-test.git
+   cd protergo-assessment-test
    ```
 
 2. **Create a Python Virtual Environment (optional but recommended):** It's a good practice to work within a virtual environment to keep project dependencies isolated.
